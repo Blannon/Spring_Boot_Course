@@ -1,4 +1,4 @@
-package com.blannonnetwork.Spring_boot_course.database.model
+package com.blannonnetwork.spring_boot_course.database.model
 
 import org.bson.types.ObjectId
 import org.springframework.data.annotation.Id

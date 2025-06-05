@@ -1,6 +1,6 @@
-package com.blannonnetwork.Spring_boot_course.database.repository
+package com.blannonnetwork.spring_boot_course.database.repository
 
-import com.blannonnetwork.Spring_boot_course.database.model.Note
+import com.blannonnetwork.spring_boot_course.database.model.Note
 import org.bson.types.ObjectId
 import org.springframework.data.mongodb.repository.MongoRepository
 

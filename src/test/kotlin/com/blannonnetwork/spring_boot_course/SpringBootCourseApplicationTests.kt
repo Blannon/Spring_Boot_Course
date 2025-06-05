@@ -1,4 +1,4 @@
-package com.blannonnetwork.Spring_boot_course
+package com.blannonnetwork.spring_boot_course
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest

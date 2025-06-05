@@ -1,4 +1,4 @@
-package com.blannonnetwork.Spring_boot_course
+package com.blannonnetwork.spring_boot_course
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
